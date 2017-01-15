@@ -1,1 +1,3 @@
-# Ghost-Hunter
+# Ghost Hunter
+
+This was a project for my CS 2110 Software Development Methods class. We were required to develop an Anroid came with some base specifications in four weeks. They offered extra credit for teams that fulfilled additional specificitations. I was the project manager of a team of 4 engineers with no prior Android development experience. We received over 100% on this project. We did not use any form of version control, as none of us were familiar with the tool at the time. We were advised not to learn how to uset he tool do to our limited time frame. I uploaded our code for anyone to check out. My apologies if it's a little rough--this was my first programming project! Boy, did it make me love GitHub.
